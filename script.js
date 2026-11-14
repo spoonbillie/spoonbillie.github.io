@@ -48,7 +48,7 @@ const VIDEOS = [
 ]
 
 const FILE_DOWNLOADS = [
-  'media/images/download.jpg'
+  'media/images/download.jpg',
   'media/images/download2.jpg'
 ]
 
